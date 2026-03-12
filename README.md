@@ -17,7 +17,7 @@ The project was implemented on a Linux server environment and the code was manag
 
 The following diagram represents the architecture of this DevOps automation project.
 
-Arch-Diagram.png
+![Architecture Diagram](Arch-Diagram.png)
 
 ## Technologies and Tools Used
 
