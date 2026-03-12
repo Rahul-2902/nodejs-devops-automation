@@ -237,7 +237,7 @@ git commit -m "Initial DevOps automation project"
 
 To store the project online, I created a repository on GitHub and connected it to the local repository.
 
-git remote add origin https://github.com/YOUR-USERNAME/nodejs-devops-automation.git
+git remote add origin https://github.com/GIT-USERNAME/nodejs-devops-automation.git
 
 Then I pushed the code to GitHub.
 
