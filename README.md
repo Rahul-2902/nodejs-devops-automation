@@ -13,6 +13,11 @@ To make the monitoring automatic, I configured a cron job that runs the health c
 The project was implemented on a Linux server environment and the code was managed using Git and stored on GitHub.
 
 ---
+## Architecture Diagram
+
+The following diagram represents the architecture of this DevOps automation project.
+
+![Architecture Diagram](arch-diagram.png)
 
 ## Technologies and Tools Used
 
