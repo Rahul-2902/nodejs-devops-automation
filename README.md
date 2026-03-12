@@ -59,7 +59,7 @@ After launching the server, I connected to it using SSH.
 
 Example command:
 
-ssh ubuntu@<server-public-ip>
+ssh ubuntu@<-public-ip>
 
 ---
 
